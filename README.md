@@ -1,17 +1,8 @@
 <div align="center">
 
-```
-  █████╗  ██████╗██╗  ██╗ █████╗ ██████╗ ███████╗
- ██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██╔════╝
- ███████║██║     █████╔╝ ███████║██║  ██║█████╗  
- ██╔══██║██║     ██╔═██╗ ██╔══██║██║  ██║██╔══╝  
- ██║  ██║╚██████╗██║  ██╗██║  ██║██████╔╝███████╗
- ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
-</div>
+# ACKADE
 
-<div align="center">
-
-**竞赛编程 · 算法研究 · 多维探索**
+*竞赛编程 &nbsp;·&nbsp; 算法研究 &nbsp;·&nbsp; 多维探索*
 
 *浙江师范大学 · 计算机科学与技术*
 
@@ -19,26 +10,33 @@
 
 ---
 
-### 📊 数据总览
+### 数据概览
 
 <div align="center">
 
-```
-┌─────────────────────┬─────────────────────┬─────────────────────┐
-│     🏆 竞赛获奖      │     🎖️ 荣誉奖项      │     🔬 科研成果      │
-├─────────────────────┼─────────────────────┼─────────────────────┤
-│       20+ 项        │        6 项         │        4 项         │
-│   ICPC · CCPC ·     │  省政府奖学金 ·      │  省创 x2 · 国创     │
-│   蓝桥杯 · RAICOM   │  一等奖学金 ·        │  WISE 2025 论文    │
-│   天梯赛 · 服创     │  五好学生 · 优干     │  第一作者          │
-└─────────────────────┴─────────────────────┴─────────────────────┘
-```
+<table>
+<tr>
+  <td align="center" width="250"><b>🏆 竞赛获奖</b></td>
+  <td align="center" width="250"><b>🎖️ 荣誉奖项</b></td>
+  <td align="center" width="250"><b>🔬 科研成果</b></td>
+</tr>
+<tr>
+  <td align="center"><b>20+</b> 项</td>
+  <td align="center"><b>6</b> 项</td>
+  <td align="center"><b>4</b> 项</td>
+</tr>
+<tr>
+  <td align="center">ICPC · CCPC · 蓝桥杯<br>RAICOM · 天梯赛 · 服创</td>
+  <td align="center">省政府奖学金 · 一等奖学金<br>五好学生 · 优秀学生干部</td>
+  <td align="center">省创×2 · 国创<br>WISE 2025 论文</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🏅 竞赛成绩分布
+### 竞赛成绩分布
 
 <div align="center">
 
@@ -51,27 +49,27 @@
 </div>
 
 <details>
-<summary><b>📋 竞赛详情（点击展开）</b></summary>
+<summary><b>📋 竞赛详情</b></summary>
 <br>
 
 | 赛事 | 级别 | 成绩 |
 |---|---|---|
 | 2026 团体天梯赛全国总决赛 | 国家 | 团体一等奖 · 个人二等奖 |
 | 第 17 届服创大赛东部区域赛 | 国家 | 一等奖 |
-| 浙江师范大学第 22 届程序设计竞赛 | 校级 | 三等奖 |
 | 睿琪杯第 23 届浙江省大学生程序设计竞赛 | 省级 | 银牌 |
+| 浙江师范大学第 22 届程序设计竞赛 | 校级 | 三等奖 |
 | 第 16 届蓝桥杯 C/C++ B组 | 国家 | 省一等奖 · 国二等奖 |
 | 2025 RAICOM | 国家 | 省一等奖 · 国二等奖 |
 | 第 50 届 ICPC 区域赛成都站 | 国际 | 铜奖 |
 | 2026 CCPC 南昌站 | 国家 | 铜奖 |
+| 2024 CCPC 山东站 | 国家 | 铜奖 |
 | 第 15 届蓝桥杯 C/C++ B组 | 省级 | 二等奖 |
 | 2024 RAICOM | 国家 | 省二等奖 · 国二等奖 |
-| 2024 CCPC 山东站 | 国家 | 铜奖 |
 
 </details>
 
 <details>
-<summary><b>🎖️ 荣誉与奖学金（点击展开）</b></summary>
+<summary><b>🎖️ 荣誉与奖学金</b></summary>
 <br>
 
 | 荣誉 | 学年 |
@@ -87,30 +85,24 @@
 
 ---
 
-### 🔬 科研
+### 科研
 
 <div align="center">
 
 | 课题 | 级别 | 状态 |
 |---|---|---|
-| 需求感知驱动的智能反射面与无人机协同组网优化 | **国创** | 🔄 进行中 |
-| 动态任务驱动下多主体分布式博弈与自组织协同机制研究 | 省创 | 🔄 进行中 |
-| 基于领域知识图谱的专家推荐方法研究 | 省创 | ✅ 已结题 |
+| 需求感知驱动的智能反射面与无人机协同组网优化 | **国创** | 🔄 |
+| 动态任务驱动下多主体分布式博弈与自组织协同机制研究 | 省创 | 🔄 |
+| 基于领域知识图谱的专家推荐方法研究 | 省创 | ✅ |
 
 </div>
 
-<div align="center">
+> **📄 MINEKG-Rec:** A Multi-Intent Enhanced Knowledge Graph-Based Recommendation Framework
+> 第一作者 · 收录于 **Springer WISE 2025** Workshops
 
 ---
 
-**📄 MINEKG-Rec:** A Multi-Intent Enhanced Knowledge Graph-Based Recommendation Framework  
-第一作者 · 收录于 **Springer WISE 2025** Workshops
-
-</div>
-
----
-
-### 🛠️
+### 技术栈
 
 <div align="center">
 
@@ -125,18 +117,18 @@
 
 ---
 
-### 🐍
+### 贪吃蛇
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ACKADE/ACKADE/output/snake.svg">
-    <img src="https://raw.githubusercontent.com/ACKADE/ACKADE/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/ACKADE/ACKADE/output/snake.svg" alt="snake animation" />
   </picture>
 </div>
 
 ---
 
-### 📬
+### 联系
 
 <div align="center">
 
