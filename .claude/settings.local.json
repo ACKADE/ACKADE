@@ -5,7 +5,9 @@
       "Bash(mkdir -p \"C:\\\\Users\\\\32654\\\\Desktop\\\\ACKADE\\\\images\")",
       "Bash(cp \"D:\\\\wechat\\\\wechat聊天存储\\\\xwechat_files\\\\wxid_rhvxv78cw1fg22_f62b\\\\temp\\\\RWTemp\\\\2026-06\\\\9e20f478899dc29eb19741386f9343c8\\\\5d0c432fd8bee262c12ff817a6a74f18.jpg\" \"C:\\\\Users\\\\32654\\\\Desktop\\\\ACKADE\\\\images\\\\alipay.jpg\")",
       "WebFetch(domain:zhuanlan.zhihu.com)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(curl -sI \"https://github-profile-trophy.vercel.app/?username=ACKADE&theme=tokyonight&no-frame=true&column=7&margin-w=6\")",
+      "WebFetch(domain:github-profile-trophy.vercel.app)"
     ]
   }
 }

@@ -9,9 +9,9 @@
 ### 📊 动态数据
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ACKADE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&line_height=24&custom_title=GitHub%20%E5%8A%A8%E6%80%81" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACKADE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&card_width=360" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ACKADE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=8b949e&dates=8b949e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ACKADE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACKADE&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app?user=ACKADE&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
@@ -19,7 +19,7 @@
 ### 🏆 GitHub 奖杯
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ACKADE&theme=tokyonight&no-frame=true&no-bg=false&bg_color=0d1117&column=7&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ACKADE&theme=onedark&no-frame=true&column=7&margin-w=6" />
 </div>
 
 ---
