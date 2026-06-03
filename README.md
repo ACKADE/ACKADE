@@ -114,20 +114,12 @@
 [![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
 
 </div>
-
----
-
-### 贪吃蛇
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ACKADE/ACKADE/output/snake.svg">
     <img src="https://raw.githubusercontent.com/ACKADE/ACKADE/output/snake.svg" alt="snake animation" />
   </picture>
 </div>
-
----
-
 ### 联系
 
 <div align="center">
@@ -137,6 +129,6 @@
 
 <br>
 
-<img src="images/alipay.jpg" width="180" alt="支付宝收款码" />
+<img src="images/alipay.jpg" width="280" alt="支付宝收款码" />
 
 </div>
