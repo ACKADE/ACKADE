@@ -19,7 +19,7 @@
   <td align="center" width="250"><b>🔬 科研成果</b></td>
 </tr>
 <tr>
-  <td align="center"><b>20+</b> 项</td>
+  <td align="center"><b>30+</b> 项</td>
   <td align="center"><b>6</b> 项</td>
   <td align="center"><b>4</b> 项</td>
 </tr>
