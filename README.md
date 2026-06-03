@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ### 数据概览
 
 <div align="center">
@@ -33,8 +31,6 @@
 </table>
 
 </div>
-
----
 
 ### 竞赛成绩分布
 
@@ -83,8 +79,6 @@
 
 </details>
 
----
-
 ### 科研
 
 <div align="center">
@@ -99,8 +93,6 @@
 
 > **📄 MINEKG-Rec:** A Multi-Intent Enhanced Knowledge Graph-Based Recommendation Framework
 > 第一作者 · 收录于 **Springer WISE 2025** Workshops
-
----
 
 ### 技术栈
 
@@ -120,6 +112,7 @@
     <img src="https://raw.githubusercontent.com/ACKADE/ACKADE/output/snake.svg" alt="snake animation" />
   </picture>
 </div>
+
 ### 联系
 
 <div align="center">
@@ -128,7 +121,5 @@
 [![Bilibili](https://img.shields.io/badge/B站-296305982-00a1d6?style=flat-square&logo=bilibili&logoColor=white&labelColor=0d1117)](https://space.bilibili.com/296305982)
 
 <br>
-
 <img src="images/alipay.jpg" width="280" alt="支付宝收款码" />
-
 </div>
